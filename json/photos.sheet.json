@@ -5,10 +5,11 @@
     "rank": "",
     "image": "StartApple.jpg",
     "overlay": "right",
-    "chatter": "",
+    "subhead": "Apple Cup ",
+    "chatter": "Notable stats here",
     "youtube": "",
     "etc": "",
-    "credit": ""
+    "credit": "Dean Rutz / The Seattle Times"
   },
   {
     "title": "1",
@@ -16,10 +17,11 @@
     "rank": "1",
     "image": "",
     "overlay": "right",
+    "subhead": "",
     "chatter": "",
     "youtube": "",
     "etc": "",
-    "credit": "Dean Rutz / The Seattle Times"
+    "credit": ""
   },
   {
     "title": "2",
@@ -27,7 +29,8 @@
     "rank": "2",
     "image": "2012Apple.jpg",
     "overlay": "left",
-    "chatter": "In Mike Leach's first Apple Cup, the Cougars faced a 28-10 fourth-quarter deficit, seemingly destined for a disappointing 2-10 season. But, as we all know, crazy things can happen when these teams get together. Staring an 18-point deficit squarely in the face, the Cougars didn't blink. Senior quarterback Jeff Tuel led two touchdown drives -- both capped by Carl Winston rushing scores -- and just like that, WSU was within striking distance. After potential game-winning field goal by UW's Travis Coons sailed wide right, the Cougs forced a turnover in overtime and put the finishing touches on the largest Apple Cup comeback ever. ",
+    "subhead": "",
+    "chatter": "In Mike Leach's first Apple Cup, the Cougars faced a 28-10 fourth-quarter deficit, seemingly destined for a disappointing 2-10 season. But, as we all know, crazy things can happen when these teams get together. Staring an 18-point deficit squarely in the face, the Cougars didn't blink. Senior quarterback Jeff Tuel led two touchdown drives -- both capped by Carl Winston rushing scores -- and just like that, WSU was within striking distance. After the potential game-winning field goal by UW's Travis Coons sailed wide right, the Cougs forced a turnover in overtime and put the finishing touches on the largest Apple Cup comeback ever. ",
     "youtube": "ZkARl-S8SQY",
     "etc": "",
     "credit": "Dean Rutz / The Seattle Times"
@@ -38,6 +41,7 @@
     "rank": "3",
     "image": "1988Apple.jpg",
     "overlay": "",
+    "subhead": "",
     "chatter": "",
     "youtube": "",
     "etc": "",
@@ -49,7 +53,8 @@
     "rank": "4",
     "image": "1981AppleCup.jpg",
     "overlay": "left",
-    "chatter": "",
+    "subhead": "",
+    "chatter": "This was a year where stakes couldn't be higher, as the Pac-10 title and Rose Bowl were on the line – making this an Apple Cup matchup for the ages. The game itself fell shy of expectations as UW stormed to a 23-10 victory, but it was the win UW needed to get back to Pasadena for the team's third Rose Bowl appearance in five years. ",
     "youtube": "",
     "etc": "",
     "credit": "Barry Wongq / The Seattle Times"
@@ -60,7 +65,8 @@
     "rank": "5",
     "image": "2007Apple.jpg",
     "overlay": "right",
-    "chatter": "",
+    "subhead": "",
+    "chatter": "The 100th meeting between the two teams also turned into one of the most thrilling. After falling behind 10-0 early, WSU rallied back to take a 28-20 lead in the second half. But Jake Locker and the Huskies would not go away, bouncing back for two scores of their own. With the game knotted at 35-35 in the final minute, QB Alex Brink dropped back for a 35-yard strike to WR Brandon Gibson, delivering the dagger to UW. Brink ended the day with 399 yards and 5 TDs, while also securing his third win over UW in four tries -- most ever by a WSU quarterback.",
     "youtube": "",
     "etc": "",
     "credit": "Mark Harrison / The Seattle Times"
@@ -71,8 +77,9 @@
     "rank": "6",
     "image": "",
     "overlay": "let",
+    "subhead": "1991",
     "chatter": "",
-    "youtube": "",
+    "youtube": "We_xrzDcYQ",
     "etc": "",
     "credit": ""
   },
@@ -82,6 +89,7 @@
     "rank": "7",
     "image": "2002Apple.jpg",
     "overlay": "right",
+    "subhead": "",
     "chatter": "",
     "youtube": "",
     "etc": "",
@@ -93,6 +101,7 @@
     "rank": "8",
     "image": "1982AppleCup.jpg",
     "overlay": "left",
+    "subhead": "",
     "chatter": "",
     "youtube": "",
     "etc": "",
@@ -104,6 +113,7 @@
     "rank": "9",
     "image": "1975AppleCup.jpg",
     "overlay": "right",
+    "subhead": "",
     "chatter": "",
     "youtube": "",
     "etc": "",
@@ -115,8 +125,9 @@
     "rank": "10",
     "image": "1992Apple.jpg",
     "overlay": "left",
-    "chatter": "",
-    "youtube": "",
+    "subhead": "",
+    "chatter": "If you ever want to make a Coug fan smile, all that is needed is two words: “Snow Bowl”.\r On a blustery winter day in Pullman, and with the reigning national champions from across the state storming into town, Drew Bledsoe and the Cougars pulled out all the stops to make this an Apple Cup for the ages. Perhaps the most famous pass in WSU history came on a third-quarter connection when Bledsoe found a diving Philip Bobo in the back of the end zone with a 44-yard pass. Bobo slid into a pile of snow underneath the goal posts as Bledsoe pumped his arms infront of the snow-covered Cougar faithful.",
+    "youtube": "eykkSTEcVdg",
     "etc": "",
     "credit": "Rod Mar / The Seattle Times"
   },
@@ -126,7 +137,8 @@
     "rank": "",
     "image": "UWApple.jpg",
     "overlay": "left",
-    "chatter": "",
+    "subhead": "Huskies viewpoint",
+    "chatter": "Related links here",
     "youtube": "",
     "etc": "",
     "credit": ""
@@ -137,7 +149,8 @@
     "rank": "",
     "image": "wsuapple.jpg",
     "overlay": "right",
-    "chatter": "",
+    "subhead": "Cougars viewpoint",
+    "chatter": "Related links here",
     "youtube": "",
     "etc": "",
     "credit": ""
