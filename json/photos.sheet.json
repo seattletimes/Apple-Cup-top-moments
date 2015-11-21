@@ -5,11 +5,12 @@
     "rank": "",
     "image": "StartApple.jpg",
     "overlay": "right",
-    "subhead": "Apple Cup ",
+    "name": "Apple Cup ",
     "chatter": "Notable stats here",
     "youtube": "",
     "etc": "",
-    "credit": "Dean Rutz / The Seattle Times"
+    "credit": "Dean Rutz / The Seattle Times",
+    "related": ""
   },
   {
     "title": "1",
@@ -17,11 +18,12 @@
     "rank": "1",
     "image": "",
     "overlay": "right",
-    "subhead": "",
+    "name": "header",
     "chatter": "",
     "youtube": "",
     "etc": "",
-    "credit": ""
+    "credit": "",
+    "related": ""
   },
   {
     "title": "2",
@@ -29,11 +31,12 @@
     "rank": "2",
     "image": "2012Apple.jpg",
     "overlay": "left",
-    "subhead": "",
+    "name": "Nov. 23, 2012: WSU 31, UW 28 (OT)",
     "chatter": "In Mike Leach's first Apple Cup, the Cougars faced a 28-10 fourth-quarter deficit, seemingly destined for a disappointing 2-10 season. But, as we all know, crazy things can happen when these teams get together. Staring an 18-point deficit squarely in the face, the Cougars didn't blink. Senior quarterback Jeff Tuel led two touchdown drives -- both capped by Carl Winston rushing scores -- and just like that, WSU was within striking distance. After the potential game-winning field goal by UW's Travis Coons sailed wide right, the Cougs forced a turnover in overtime and put the finishing touches on the largest Apple Cup comeback ever. ",
     "youtube": "ZkARl-S8SQY",
     "etc": "",
-    "credit": "Dean Rutz / The Seattle Times"
+    "credit": "Dean Rutz / The Seattle Times",
+    "related": "http://www.seattletimes.com/sports/wsu-cougar-football/remembering-cougarsrsquo-improbable-victory-in-2012-apple-cup/"
   },
   {
     "title": "3",
@@ -41,11 +44,12 @@
     "rank": "3",
     "image": "1988Apple.jpg",
     "overlay": "",
-    "subhead": "",
+    "name": "Nov. 19, 1988: WSU 32, UW 31",
     "chatter": "",
     "youtube": "",
     "etc": "",
-    "credit": "Harley Soltes / The Seattle Times"
+    "credit": "Harley Soltes / The Seattle Times",
+    "related": ""
   },
   {
     "title": "4",
@@ -53,11 +57,12 @@
     "rank": "4",
     "image": "1981AppleCup.jpg",
     "overlay": "left",
-    "subhead": "",
+    "name": "header",
     "chatter": "This was a year where stakes couldn't be higher, as the Pac-10 title and Rose Bowl were on the line – making this an Apple Cup matchup for the ages. The game itself fell shy of expectations as UW stormed to a 23-10 victory, but it was the win UW needed to get back to Pasadena for the team's third Rose Bowl appearance in five years. ",
     "youtube": "",
     "etc": "",
-    "credit": "Barry Wongq / The Seattle Times"
+    "credit": "Barry Wongq / The Seattle Times",
+    "related": ""
   },
   {
     "title": "5",
@@ -65,11 +70,12 @@
     "rank": "5",
     "image": "2007Apple.jpg",
     "overlay": "right",
-    "subhead": "",
+    "name": "header",
     "chatter": "The 100th meeting between the two teams also turned into one of the most thrilling. After falling behind 10-0 early, WSU rallied back to take a 28-20 lead in the second half. But Jake Locker and the Huskies would not go away, bouncing back for two scores of their own. With the game knotted at 35-35 in the final minute, QB Alex Brink dropped back for a 35-yard strike to WR Brandon Gibson, delivering the dagger to UW. Brink ended the day with 399 yards and 5 TDs, while also securing his third win over UW in four tries -- most ever by a WSU quarterback.",
     "youtube": "",
     "etc": "",
-    "credit": "Mark Harrison / The Seattle Times"
+    "credit": "Mark Harrison / The Seattle Times",
+    "related": ""
   },
   {
     "title": "6",
@@ -77,11 +83,12 @@
     "rank": "6",
     "image": "",
     "overlay": "let",
-    "subhead": "1991",
+    "name": "Nov. 23, ",
     "chatter": "",
     "youtube": "We_xrzDcYQ",
     "etc": "",
-    "credit": ""
+    "credit": "",
+    "related": ""
   },
   {
     "title": "7",
@@ -89,11 +96,12 @@
     "rank": "7",
     "image": "2002Apple.jpg",
     "overlay": "right",
-    "subhead": "",
-    "chatter": "",
+    "name": "Nov. 23, 2002: UW 29, No. 3 WSU 26",
+    "chatter": "The Huskies entered this 2002 matchup as huge underdogs against the No. 3 WSU Cougars -- an Apple Cup rarity. Despite the odds, UW played inspired football in Seattle, looking to topple their foes to the east. Facing a 17-7 halftime deficit, Cody Pickett and the Huskies stormed back to tie the game in the second half, forcing overtime. After trading blows in overtime, the game would be decided on one of the most controversial plays in Apple Cup history. The play came on a throw by backup quarterback Matt Kegel – in for the injured Jason Gesser. The pass, intended to be a screen pass the wide receiver ended up being batted down by defensive lineman Kai Ellis. But rather than being ruled an incompletion, referee Gordon Riese swiftly ended the game with a call that will ring in the ears of Huskies and Cougar fans forever:\r\n\r\n“The ruling on the field was that it was a backwards pass. Washington recovered that pass, and the game is over.”",
     "youtube": "",
     "etc": "",
-    "credit": "Dean Rutz / The Seattle Times"
+    "credit": "Dean Rutz / The Seattle Times",
+    "related": ""
   },
   {
     "title": "8",
@@ -101,11 +109,12 @@
     "rank": "8",
     "image": "1982AppleCup.jpg",
     "overlay": "left",
-    "subhead": "",
-    "chatter": "",
+    "name": "Nov. 20, 1982: WSU 24, No. 5 UW 20",
+    "chatter": "Don James entered his first game in Pullman to face the two-win Cougars with his undefeated Huskies ranked No. 5 in the country and Rose Bowl hopes on the line. It was also the first game to take place in Pullman in 28 years, as WSU had previously hosted the Apple Cup in Spokane. The switch, along with WSU's strategy of using two quarterbacks, was enough to throw the Huskies off on that Saturday afternoon. The Cougars, who were 18-point underdogs, rallied behind the Martin Stadium crowd from a 17-7 halftime deficit to pull ahead in the second half. \nBut after a costly interception by Casper, the game seemed all but over for Washington State as UW lined up for a field goal that would have put the Huskies ahead 23-21. But UW kicker Chuck Nelson, who hadn’t missed a kick all season, missed the 32-yard attempt and the Cougars went on to win, 24-20. WSU fans stormed the field and tore down the goal posts.",
     "youtube": "",
     "etc": "",
-    "credit": "Chris Johns / The Seattle Times"
+    "credit": "Chris Johns / The Seattle Times",
+    "related": ""
   },
   {
     "title": "9",
@@ -113,11 +122,12 @@
     "rank": "9",
     "image": "1975AppleCup.jpg",
     "overlay": "right",
-    "subhead": "",
+    "name": "Nov. 22, 1975: UW 28, WSU 27",
     "chatter": "",
     "youtube": "",
     "etc": "",
-    "credit": "Vic Condiotty / The Seattle Times"
+    "credit": "Vic Condiotty / The Seattle Times",
+    "related": ""
   },
   {
     "title": "10",
@@ -125,11 +135,12 @@
     "rank": "10",
     "image": "1992Apple.jpg",
     "overlay": "left",
-    "subhead": "",
+    "name": "Nov. 21, 1992: WSU 42, No. 5 UW 21",
     "chatter": "If you ever want to make a Coug fan smile, all that is needed is two words: “Snow Bowl”.\r On a blustery winter day in Pullman, and with the reigning national champions from across the state storming into town, Drew Bledsoe and the Cougars pulled out all the stops to make this an Apple Cup for the ages. Perhaps the most famous pass in WSU history came on a third-quarter connection when Bledsoe found a diving Philip Bobo in the back of the end zone with a 44-yard pass. Bobo slid into a pile of snow underneath the goal posts as Bledsoe pumped his arms infront of the snow-covered Cougar faithful.",
     "youtube": "eykkSTEcVdg",
     "etc": "",
-    "credit": "Rod Mar / The Seattle Times"
+    "credit": "Rod Mar / The Seattle Times",
+    "related": ""
   },
   {
     "title": "11",
@@ -137,11 +148,12 @@
     "rank": "",
     "image": "UWApple.jpg",
     "overlay": "left",
-    "subhead": "Huskies viewpoint",
+    "name": "Huskies viewpoint",
     "chatter": "Related links here",
     "youtube": "",
     "etc": "",
-    "credit": ""
+    "credit": "",
+    "related": ""
   },
   {
     "title": "12",
@@ -149,10 +161,11 @@
     "rank": "",
     "image": "wsuapple.jpg",
     "overlay": "right",
-    "subhead": "Cougars viewpoint",
+    "name": "Cougars viewpoint",
     "chatter": "Related links here",
     "youtube": "",
     "etc": "",
-    "credit": ""
+    "credit": "",
+    "related": ""
   }
 ]

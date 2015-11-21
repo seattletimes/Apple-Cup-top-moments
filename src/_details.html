@@ -1,9 +1,9 @@
 <section class="parallax-play" data-index="<%= index %>">
   <img src="./assets/<%= item.image %>" class="fixable">
   <div class="description <%= item.overlay %>">
-    <% if (item.rank) { %>
-    <h3 class="rank"><sup>#</sup><%= item.rank %>: <%= item.name %></h3>
-    <% } %>
+
+    <h3 class="rank"> <%= item.name %></h3>
+
     <div class="copy">
       <h2>SUBHEAD</h2>
       <p><%= item.chatter %>
