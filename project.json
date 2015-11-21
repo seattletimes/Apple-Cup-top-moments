@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "apps-stage.seattletimesdata.com",
+      "path": "sports-slider"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/sports/Apple-Cup-top-moments"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2015/sports/Apple-Cup-top-moments/",
+  "slug": "",
+  "tags": ["interactive", "parallax"],
+  "image": "",
+  "production": false,
+  "sheets": ["1oM2JLt0mrFMopsX-EUjNiVeoT_bxothKzMekl1i4uEE"]
+}
