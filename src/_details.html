@@ -5,12 +5,20 @@
     <h3 class="rank"> <%= item.name %></h3>
 
     <div class="copy">
-      <h2>SUBHEAD</h2>
-      <p><%= item.chatter %>
+      <h2><%= item.subhead %></h2>
+      <p><%= item.chatter %></p>
 
-      <% if (item.youtube) { %>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= item.youtube %>" frameborder="0" allowfullscreen></iframe>
-      <% } %>
+      <p><a href="<%= item.url %>"><%= item.linktext %></a></p>
+
+      <p><% if (item.youtube) { %>
+        <iframe src="https://www.youtube.com/embed/<%= item.youtube %>" frameborder="0" allowfullscreen></iframe>
+      <% } %></p>
+
+      <p><% if (item.poll) { %>
+        <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/9197411.js"></script>
+<noscript><a href="http://polldaddy.com/poll/9197411/">Who will win the Apple Cup?</a></noscript>
+      <% } %></p>
+
 
     </div>
     <div class="credit">

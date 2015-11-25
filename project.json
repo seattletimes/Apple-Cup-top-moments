@@ -1,8 +1,8 @@
 {
   "s3": {
     "stage": {
-      "bucket": "apps-stage.seattletimesdata.com",
-      "path": "sports-slider"
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "Apple-Cup-top-moments"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
@@ -15,6 +15,6 @@
   "slug": "",
   "tags": ["interactive", "parallax"],
   "image": "",
-  "production": false,
+  "production": true,
   "sheets": ["1oM2JLt0mrFMopsX-EUjNiVeoT_bxothKzMekl1i4uEE"]
 }
